@@ -15,6 +15,7 @@ public class TestHerencia {
 
         Cliente cliente = new Cliente(new Date(), true, "Fernando", 'M', 31, "Guatemala");
         System.out.println("cliente = " + cliente);
+        System.out.println("prueba git = " + cliente);
     }
     
 }
